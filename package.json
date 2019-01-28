@@ -1,0 +1,30 @@
+{
+  "name": "liri-app-jayrene1",
+  "version": "1.0.0",
+  "description": "A node-powered command line app that delivers search results from the Spotify API, Bands in Town, and Open Movie Database.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayrene1/liri-node-app.git"
+  },
+  "keywords": [
+    "Spotify",
+    "Concerts",
+    "Movies"
+  ],
+  "author": "Joshua Arcega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayrene1/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Jayrene1/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
