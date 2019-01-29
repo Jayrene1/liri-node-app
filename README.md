@@ -21,9 +21,9 @@ A command line node app that can search for concerts, songs on spotify, and movi
 [Video Demo (2:13)](https://drive.google.com/file/d/1jdiL-9TTycA_UK5ef0-Ov3WVnu7DrWeM/view)
 
 1. Open a terminal at root folder of liri-node-app
-2. Type "node liri.js <command> <search>"
+2. Type `node liri.js <command> <search>`
 3. Valid commands:
-  * concert-this <name of artist>
-  * spotify-this-song <name of song>
-  * movie-this <name of movie>
-  * do-what-it-says (does not require additional arguments)
+    * `concert-this <name of artist>`
+    * `spotify-this-song <name of song>`
+    * `movie-this <name of movie>`
+    * `do-what-it-says` *(does not require additional arguments)*
