@@ -3,6 +3,9 @@
 ## About
 A command line node app that can search for concerts, songs on spotify, and movie information
 
+![App Screenshot](/Readme_Screenshots/command-prompt.png)
+Format: ![Screenshot of app functionality](url)
+
 ### APIs Used
 * [Bands In Town](http://www.artists.bandsintown.com/bandsintown-api/?locale=en)
 * [Spotify](https://developer.spotify.com/documentation/web-api/quick-start/)
