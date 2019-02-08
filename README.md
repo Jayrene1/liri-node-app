@@ -29,8 +29,8 @@ I created the app as an exercise in node-based applications. I learned how to se
 5. Create a Spotify ID and Secret [here](https://developer.spotify.com/dashboard/)
 6. create a file called ".env" in the root folder and paste your Spotify ID and Secret in the following format: 
 ```
-    SPOTIFY_ID=0685378d7b42429f96bea79222909723
-    SPOTIFY_SECRET=7b9fedf14c224fc6a686524c07636bd5
+    SPOTIFY_ID=<YOURCREDENTIALSHERE>
+    SPOTIFY_SECRET=<YOURCREDENTIALSHERE>
 ```
 
 ### How To Use
